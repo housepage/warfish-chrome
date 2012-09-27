@@ -35,3 +35,5 @@ function constructImageURL(photo) {
       "_" + photo.getAttribute("secret") +
       "_s.jpg";
 }
+
+console.log("Warfish: " + warfish);
