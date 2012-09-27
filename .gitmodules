@@ -1,6 +1,6 @@
-[submodule "js/jquery/jFeed"]
-	path = js/jquery/jFeed
-	url = git@github.com:housepage/jFeed.git
 [submodule "js/jquery/jWarfish"]
 	path = js/jquery/jWarfish
 	url = git@github.com:housepage/jWarfish.git
+[submodule "js/jquery/jFeed"]
+	path = js/jquery/jFeed
+	url = git://github.com/jfhovinne/jFeed.git
