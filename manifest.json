@@ -1,0 +1,17 @@
+{
+  "name": "Warfish Chromium",
+  "version": "0.1",
+  "manifest_version": 1,
+  "background": { "page": "background.html" },
+  "description": "Make using warfish easier",
+  "browser_action": {
+    "default_icon": "favicon.ico"
+  },
+  "permissions": [
+    "http://warfish.net/war/play/gamelist",
+    "http://warfish.net/war/services/rss",
+    "history",
+    "webNavigation",
+    "tabs"
+  ]
+}
